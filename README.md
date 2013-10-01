@@ -1,5 +1,5 @@
 new-repo
-========
-$ mkdir ~/Hello-World
+
+Hello-World
 
 # Creates a directory for your project called "Hello-World" in your user directory
